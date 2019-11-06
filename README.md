@@ -1,3 +1,5 @@
+Cycle 5 Project Gaming Company
+
 Description: For this project, I have worked on an PHP Project, Gaming Website. Among its functionality, 
 users are able to create predorders for games; and that will then be saved to the database in this case in SQL.
 
